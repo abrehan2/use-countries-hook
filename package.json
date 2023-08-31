@@ -1,0 +1,46 @@
+{
+  "name": "use-countries-hook",
+  "version": "1.0.0",
+  "description": "The useCountries hook is a customizable React hook that provides an effortless way for developers to integrate a list of countries into their components. This hook simplifies the process of fetching and managing country's data, allowing users to easily select countries for their applications.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abrehan2/use-countries-hook.git"
+  },
+  "scripts": {
+    "rollup": "rollup -c --bundleConfigAsCjs"
+  },
+  "keywords": [
+    "react",
+    "react-hook",
+    "hooks"
+  ],
+  "author": "Abdul Rehan",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^25.0.1",
+    "@rollup/plugin-json": "^6.0.0",
+    "@rollup/plugin-node-resolve": "^15.1.0",
+    "@rollup/plugin-terser": "^0.4.3",
+    "@rollup/plugin-typescript": "^11.1.1",
+    "@types/react": "^18.2.21",
+    "react": "^18.2.0",
+    "rollup": "^3.28.1",
+    "rollup-plugin-dts": "^5.3.0",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "tslib": "^2.5.3",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "world-countries": "^4.0.0"
+  },
+  "peerDependencies": {
+    "@types/react": "^18.0.0",
+    "react": "^18.0.0"
+  },
+  "main": "dist/cjs/index.js",
+  "files": [
+    "dist"
+  ],
+  "types": "dist/index.d.ts"
+}
