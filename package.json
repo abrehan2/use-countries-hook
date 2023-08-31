@@ -39,10 +39,6 @@
     "react": "^18.0.0"
   },
   "main": "dist/cjs/index.js",
-  "files": [
-    "dist",
-    "src",
-    "README.md"
-  ],
+  "files": ["dist"],
   "types": "dist/index.d.ts"
 }
