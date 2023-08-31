@@ -24,7 +24,6 @@ export default [
       // NEW
       typescript(),
       peerDepsExternal(),
-
       resolve(),
       commonjs(),
       json(),
