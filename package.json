@@ -41,6 +41,6 @@
   "main": "dist/cjs/index.js",
   "files": [
     "dist"
-  ],
-  "types": "dist/index.d.ts"
+  ]
+
 }
