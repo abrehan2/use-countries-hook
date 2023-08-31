@@ -40,7 +40,9 @@
   },
   "main": "dist/cjs/index.js",
   "files": [
-    "dist"
+    "dist",
+    "src",
+    "README.md"
   ],
   "types": "dist/index.d.ts"
 }
