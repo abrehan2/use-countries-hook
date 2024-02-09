@@ -51,5 +51,5 @@ return <div>Thank you for using this hook!</div>;
 
 ## License
 
-This project is licensed under the terms of the
+This package is licensed under the terms of the
 [MIT license](/LICENSE)
