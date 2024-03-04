@@ -1,3 +1,5 @@
+> The use-countries-hook is a customizable React hook that provides an effortless way for developers to integrate a list of countries into their components. It simplifies the process of fetching and managing country's data, allowing users to easily select countries for their applications.
+
 ## Installation
 
 **npm:**
